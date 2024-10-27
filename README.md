@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deelaka Senal</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 <p align="center">
-  <img alt="Developer GIF" height="400" width="600" src="https://tenor.com/view/developer-gif-23414225" />
+  <img alt="Coder GIF" height="400" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 </p>
 <br>
 
