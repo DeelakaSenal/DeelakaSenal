@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deelaka Senal</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
+<p align="center">
+  <img alt="Developer GIF" height="400" width="600" src="https://tenor.com/view/developer-gif-23414225" />
+</p>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deelakasenal&label=Profile%20views&color=0e75b6&style=flat" alt="deelakasenal" /> </p>
 
